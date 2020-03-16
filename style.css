@@ -1,0 +1,26 @@
+html {
+    position: relative;
+}
+
+
+footer {
+    background-color: #5e2626;
+    width: 100%;
+    padding-top: 20px;
+}
+
+footer p {
+    color: white;
+}
+
+body {
+    background: rgb(255, 255, 236);
+}
+
+h1 {
+    font-weight: 600;
+}
+
+.display-4 {
+    font-weight: 550;
+}
